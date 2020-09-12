@@ -135,7 +135,7 @@ function draw() {
     trex.addAnimation("collided",trex_collided);
     cloudsGroup.setLifetimeEach(-1);
     obstaclegroup.setLifetimeEach(-1);
-    trex.velocityX=0;
+    trex.velocityY=0;
     
     
     
